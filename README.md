@@ -17,6 +17,10 @@ After installing the chromedriver, copy it's executable path and set in the `./c
 
 For adding tasks, please follow the format on `./tasks.json`.
 
+## Demo
+
+![demo1](https://i.gyazo.com/a82eb2ae5fd63a3b39ce9cbb73dff03e.mp4)
+
 ## Features
 
 Currently supported module:
@@ -30,6 +34,7 @@ Currently supported module:
 
 - [ ] Write better documentation
 - [ ] Clean up method module, so it looks understandable.
+- [ ] Bad email validator
 - [ ] Improve logging...
 
 ## Issues
