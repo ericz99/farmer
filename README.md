@@ -19,7 +19,7 @@ For adding tasks, please follow the format on `./tasks.json`.
 
 ## Demo
 
-![demo1](https://i.gyazo.com/a82eb2ae5fd63a3b39ce9cbb73dff03e.mp4)
+<div style='position:relative; padding-bottom:calc(56.51% + 44px)'><iframe src='https://gfycat.com/ifr/HotExhaustedBarnswallow' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 ## Features
 
