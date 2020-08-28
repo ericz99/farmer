@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "type": "YOUTUBE",
+    "email": {
+      "email": "test123@gmail.com",
+      "password": "test123"
+    }
+  },
+  {
+    "id": 1,
+    "type": "BROWSING",
+    "email": {
+      "email": "test123@gmail.com",
+      "password": "test123"
+    }
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "chromePath": "YOUR_CHROMEDRIVER_PATH_EXE",
+  "breakInterval": 600000,
+  "closeAfterBreakInterval": true,
+  "duration": 30
+}
